@@ -1,52 +1,78 @@
-<h2 align="left">Hi 👋! My name is Tanya and I'm an aspiring iOS developer from Russia <br>🚀</h2>
+# Привет, меня зовут Таня!
 
-###
+### 👩🏻‍💻 Обо мне:
+Я начинающая iOS-разработчица . Мой путь в разработке начался в 2023г. В марте 2024 года завершила обучение по программе профессиональной переподготовки по профессии "iOS-разработчик" в Яндекс Практикуме. 
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tatyana&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Tatyana&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+#### Хобби: 
+* Люблю кататься на роликах, кинотеатр и кофе!
+* В свободное время слушаю аудиокниги и подкасты о пути к себе.
+  
 
-###
+📍 Нахожусь в городе Йошкар-Ола (Россия), но открыта к карьерным возможностям в любой стране.
+        
+ 📫 Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Tatyana_Vildanova) 
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+### 💻 Пройденные курсы:
 
-###
+| Курсы                                                           | Дата              |
+| ----------------------------------------------------------------| :---------------: |
+| practicum.yandex/Курс по iOS разработке                         | 05/2023 - 03/2024 |
+|
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" height="30" alt="xcode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="30" alt="swift logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sourcetree/sourcetree-original.svg" height="30" alt="sourcetree logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="30" alt="jira logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" height="30" alt="apple logo"  />
-</div>
 
-###
+  ---
 
-<div align="left">
-  <a href="Discordapp.com/users/1005145985602814014" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  </a>
-  <a href="https://t.me/Tatyana_Vildanova" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
-  </a>
-  <a href="Wa.me/+79214213555" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
-  </a>
-</div>
+  ### 💻 Технологии: 
+<p align="center">
+<img style="pointer-events: none;" src="https://img.shields.io/badge/Swift-%23ED8B00.svg?style=for-the-badge&logo=swift&logoColor=white">
+<img style="pointer-events: none;" src="https://img.shields.io/badge/Firebase-00dae6?style=for-the-badge&logoColor=white">
+   <img style="pointer-events: none;" src="https://img.shields.io/badge/CoreData-039BE5?style=for-the-badge&logo=CoreData&logoColor=FFCC2F">
+   <img style="pointer-events: none;" src="https://img.shields.io/badge/MVC-c600c7?style=for-the-badge&logoColor=white">
+   <img style="pointer-events: none;" src="https://img.shields.io/badge/MVVM-00d67c?style=for-the-badge&logoColor=white">
+   <img style="pointer-events: none;" src="https://img.shields.io/badge/MVP-00dae6?style=for-the-badge&logoColor=white">
+   </br>
+      <img style="pointer-events: none;" src="https://img.shields.io/badge/UIKit-039BE5?style=for-the-badge&logoColor=white">
+   <img style="pointer-events: none;" src="https://img.shields.io/badge/AutoLayout-00d67c?style=for-the-badge&logoColor=white">
+   <img style="pointer-events: none;" src="https://img.shields.io/badge/SnapKit-0169d0?style=for-the-badge&logoColor=white">
+   <img style="pointer-events: none;" src="https://img.shields.io/badge/Cocoapods-fe9c1b?style=for-the-badge&logoColor=white">
+    <img style="pointer-events: none;" src="https://img.shields.io/badge/Git-039BE5?style=for-the-badge&logoColor=white">
+     <img style="pointer-events: none;" src="https://img.shields.io/badge/JSON-c600c7?style=for-the-badge&logoColor=white">
+  </br>
+   <img style="pointer-events: none;" src="https://img.shields.io/badge/Networking-fe9c1b?style=for-the-badge&logoColor=white">
+   <img style="pointer-events: none;" src="https://img.shields.io/badge/Unit tests-0e61ea?style=for-the-badge&logoColor=white">
+   </br>
+</p> 
 
-###
+---
 
-<br clear="both">
 
-<img src="https://raw.githubusercontent.com/Tatyana/Tatyana/output/snake.svg" alt="Snake animation" />
+  ### 🛠 Инструменты: 
+  <p align="center">
+<img style="pointer-events: none;" src="https://img.shields.io/badge/Figma-c600c7?style=for-the-badge&logoColor=white">
+<img style="pointer-events: none;" src="https://img.shields.io/badge/Xcode-0169d0?style=for-the-badge&logoColor=white">
+<img style="pointer-events: none;" src="https://img.shields.io/badge/Git-100000?style=for-the-badge&logoColor=white">
+</p> 
 
-###
+---
+
+
+### 🌐 Социальные сети:
+ <p align="center">
+ <a href="https://www.github.com/TatyanaVildanova" target="_blank" rel="noreferrer">
+ <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></picture>
+ </a>
+ </p>
+
+---
+
+### ⚙️ GitHub статистика:
+<table>
+  <tr>
+  <td>
+<a href="http://www.github.com/TatyanaVildanova"><img src="https://github-readme-stats.vercel.app/api?username=TatyanaVildanova&show_icons=true&hide=stars,contribs&count_private=true&title_color=3382ed&text_color=000000&icon_color=3382ed&bg_color=ffffff&hide_border=true&show_icons=true" alt="TatyanaVildanova's GitHub stats" /></a>
+      </td>
+    <td>
+<a href="http://www.github.com/TatyanaVildanova"><img height="195px" align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=TatyanaVildanova&stroke=000000&background=ffffff&ring=3382ed&fire=3382ed&currStreakNum=000000&currStreakLabel=3382ed&sideNums=000000&sideLabels=000000&dates=000000&hide_border=true" /></a>
+  </td>
+  </tr>
+</table>
